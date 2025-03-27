@@ -1,4 +1,5 @@
 import random
+import Math
 
 class Sudoku:
     def __init__(self):
