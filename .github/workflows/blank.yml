@@ -1,7 +1,7 @@
 import random
 import Math
 
-class Sudoku:
+class Sudoku():
     def __init__(self):
         self.board = [[0] * 9 for _ in range(9)]
 
